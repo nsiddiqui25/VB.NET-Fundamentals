@@ -40,3 +40,15 @@ Why VB.NET?
     - Type-safe, Object-Oriented
     - Can build any time of modern application
     - Full access to security and language interoperability in .NET
+
+What You Can Build with VB.NET
+    - Windows Presentation Foundation Applications
+    - Windows Forms Applications
+    - MVC Web Applications
+    - Web Forms Applications
+    - Web API Applications
+    - Azure (Cloud) Applications
+    - Windows Service Applications
+    - Windows 10 Applications
+    - Reusabe Class Libraris - that we can use across all of these types of applications
+
